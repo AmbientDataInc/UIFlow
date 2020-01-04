@@ -12,4 +12,4 @@ Ambientにデータを送るUIFlowブロックです。
 
 ![使い方](./images/send2Ambient.jpg)
 
-詳しくは[UIFlow（Blockly）でAmbientにデータを送る]()をご覧ください。
+詳しくは[UIFlow（Blockly）でAmbientにデータを送る](https://ambidata.io/samples/m5stack/uiflow/)をご覧ください。
